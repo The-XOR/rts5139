@@ -18,7 +18,7 @@ This ocurred during a transition from ```3.15``` to ```3.16``` kernel, as a resu
 
 ```
 cd /tmp
-git clone https://github.com/aurorafossorg/rts5139.git
+git clone https://github.com/The-XOR/rts5139.git
 cd rts5139
 make
 sudo make install
